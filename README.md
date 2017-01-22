@@ -1,6 +1,4 @@
-![c-png-clipart](https://cloud.githubusercontent.com/assets/11618181/22185037/bb958032-e0ab-11e6-91ce-56279b959f17.png)
-
-Out of interest, i took this course outside of my curriculum.
+### Out of interest, i took this course outside of my curriculum.
 
 
 COMP322 Introduction to C++ was a 1 credit course but it felt like a 3 credit one.
