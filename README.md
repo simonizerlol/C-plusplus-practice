@@ -1,5 +1,11 @@
-out of interest, i took this course outside of my curriculum.
+![c-png-clipart](https://cloud.githubusercontent.com/assets/11618181/22185037/bb958032-e0ab-11e6-91ce-56279b959f17.png)
+
+Out of interest, i took this course outside of my curriculum.
+
+
 COMP322 Introduction to C++ was a 1 credit course but it felt like a 3 credit one.
+
+
 Overview of the course: Basics and advanced features of the C++ language. Syntax, memory management, class structure, method and operator overloading, multiple inheritance, access control, stream I/O, templates, exception handling.
 
-it was tough for me because i was having so much hard time to run c++ on my windows10 and also at that time i was taking some hard courses, overall the experience was fun and interesting.
+Although it was tough for me because at the moment i was having some hard time running c++ on my windows10 laptop and also strugling with some 3rd year comp sci hard courses, overall the experience was interesting and challenging.
